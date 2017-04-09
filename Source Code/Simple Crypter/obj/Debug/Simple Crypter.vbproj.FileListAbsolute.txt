@@ -12,3 +12,7 @@ C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simpl
 C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.exe
 C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.xml
 C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.pdb
+C:\Users\jorda\OneDrive\Documents\GitHub\Xor-Encryption\Source Code\Simple Crypter\bin\Debug\Simple Crypter.exe.config
+C:\Users\jorda\OneDrive\Documents\GitHub\Xor-Encryption\Source Code\Simple Crypter\obj\Debug\Simple Crypter.exe
+C:\Users\jorda\OneDrive\Documents\GitHub\Xor-Encryption\Source Code\Simple Crypter\obj\Debug\Simple Crypter.xml
+C:\Users\jorda\OneDrive\Documents\GitHub\Xor-Encryption\Source Code\Simple Crypter\obj\Debug\Simple Crypter.pdb
