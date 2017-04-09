@@ -150,6 +150,7 @@ Public Class SimpleCrypt
         Dim letter As String
         Dim i, charinfile, code As Double
         Dim swrite = Nothing
+        Dim ComputeHash = Nothing
         SaveFileDialog1.Filter = "Text Files (*.txt)|txt"
         If SaveFileDialog1.ShowDialog = Windows.Forms.DialogResult.OK Then
 

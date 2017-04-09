@@ -1,0 +1,17 @@
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Release\Simple Crypter.exe.config
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.vbprojResolveAssemblyReference.cache
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple_Crypter.SimpleCrypt.resources
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple_Crypter.Resources.resources
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.vbproj.GenerateResource.Cache
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.xml
+C:\Users\jorda\Documents\Simple Crypter.exe.config
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.exe.config
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.exe
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.pdb
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.exe.manifest
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.application
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.exe
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.pdb
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.xml
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.exe.manifest
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Release\Simple Crypter.application

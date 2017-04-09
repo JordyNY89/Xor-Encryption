@@ -1,0 +1,5 @@
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\XOR Crypter\Simple Crypter.exe.config
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\XOR Crypter\Simple_Crypter.SimpleCrypt.resources
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\XOR Crypter\Simple_Crypter.Resources.resources
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\XOR Crypter\Simple Crypter.vbproj.GenerateResource.Cache
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\XOR Crypter\Simple Crypter.xml
