@@ -1,0 +1,14 @@
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.exe.config
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.exe
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.pdb
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.xml
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\obj\Debug\Simple_Crypter.Resources.resources
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.vbproj.GenerateResource.Cache
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.exe
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.xml
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.pdb
+C:\Users\jrlas_000\Documents\Visual Studio 2012\Projects\Simple Crypter\Simple Crypter\obj\Debug\Simple_Crypter.SimpleCrypt.resources
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\bin\Debug\Simple Crypter.exe.config
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.exe
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.xml
+C:\Users\jorda\Documents\XOR Crypt\Simple Crypter\Simple Crypter\obj\Debug\Simple Crypter.pdb

@@ -1,0 +1,4 @@
+﻿
+Class streamtowrite
+
+End Class
